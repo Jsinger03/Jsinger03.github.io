@@ -1,0 +1,100 @@
+body {
+	background-color: #2b2e4a;
+}
+input,select,option{
+    color: #e84545;
+    background-color: #2b2e4a;
+    background-opacity: 0.1;
+		margin: 10px 10px 10px 10px;
+}
+input:focus,select:focus,option:focus{
+    background-color: #eeeeee;
+    background-opacity: 1;
+		margin: 10px 10px 10px 10px;
+}
+input:hover,select:hover,option:hover{
+    background-color: #eeeeee;
+    background-opacity: 1;
+		margin: 10px 10px 10px 10px;
+}
+form {
+	color: #e84545;
+}
+h1 {
+	margin-top: 100px;
+	margin-bottom: 0px;
+	font-size: 60px;
+	color: #e84545;
+}
+h2 {
+	color: #e84545;
+	text-decoration: none;
+	text-align: left;
+	font-family: "Verdana";
+}
+h1,p,button,form {
+	text-align: center;
+	font-family: "Verdana";
+	text-decoration: none;
+}
+
+p {
+	color: #e84545;
+	font-size: 30px;
+}
+.stop {
+	text-align: center;
+	font-family: "Verdana";
+	text-decoration: none;
+	color: #e84545;
+	font-size: 20px;
+}
+
+a,.buton {
+	text-align: left;
+	color: #e84545;
+	font-family: "Verdana";
+	text-decoration: none;
+}
+
+.buton {
+	color: #2b2e4a;
+}
+
+.stuff {
+	width: 470px;
+	text-align: center;
+	margin-bottom: 20px;
+	margin: auto;
+}
+
+button {
+	text-align: center;
+	width: 150px;
+	height: 30px;
+	border: none;
+	border-radius: 10px;
+	color: #2b2e4a;
+	background-color: #903749;
+}
+pre {
+	font-size: 20px;
+	text-align: center;
+	color: ffffff;
+}
+h1.blue {
+	color: #7289da;
+}
+dd,dt {
+	text-align: left;
+	color: #ad475b;
+	font-family: "Verdana";
+
+}
+dt {
+	font-size: 20px;
+}
+dd {
+
+	font-size: 16px;
+}

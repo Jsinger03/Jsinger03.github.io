@@ -1,0 +1,103 @@
+body {
+	background-color: #b8def2;
+}
+input,select,option{
+    color: #1f5f8b;
+    background-color: #b8def2;
+    background-opacity: 0.1;
+		margin: 10px 10px 10px 10px;
+}
+input:focus,select:focus,option:focus{
+    background-color: #eeeeee;
+    background-opacity: 1;
+		margin: 10px 10px 10px 10px;
+}
+input:hover,select:hover,option:hover{
+    background-color: #eeeeee;
+    background-opacity: 1;
+		margin: 10px 10px 10px 10px;
+}
+form {
+	color: #1f5f8b;
+}
+h1 {
+	margin-top: 100px;
+	margin-bottom: 0px;
+	font-size: 60px;
+	color: #1f5f8b;
+}
+h2 {
+	color: #1f5f8b;
+	text-decoration: none;
+	text-align: left;
+	font-family: "Verdana";
+}
+h1,p,button,form {
+	text-align: center;
+	font-family: "Verdana";
+	text-decoration: none;
+}
+
+p {
+	color: #1f5f8b;
+	font-size: 30px;
+}
+.lefto {
+	text-align: left;
+}
+.stop {
+	text-align: center;
+	font-family: "Verdana";
+	text-decoration: none;
+	color: #1f5f8b;
+	font-size: 20px;
+}
+
+a,.buton {
+	text-align: left;
+	color: #1f5f8b;
+	font-family: "Verdana";
+	text-decoration: none;
+}
+
+.buton {
+	color: #b8def2;
+}
+
+.stuff {
+	width: 470px;
+	text-align: center;
+	margin-bottom: 20px;
+	margin: auto;
+}
+
+button {
+	text-align: center;
+	width: 150px;
+	height: 30px;
+	border: none;
+	border-radius: 10px;
+	color: #b8def2;
+	background-color: #1891ac;
+}
+pre {
+	font-size: 20px;
+	text-align: center;
+	color: ffffff;
+}
+h1.blue {
+	color: #7289da;
+}
+dd,dt {
+	text-align: left;
+	color: #ad475b;
+	font-family: "Verdana";
+
+}
+dt {
+	font-size: 20px;
+}
+dd {
+
+	font-size: 16px;
+}
